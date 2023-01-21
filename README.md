@@ -15,3 +15,5 @@
 ![image](https://user-images.githubusercontent.com/7100940/213878233-65b92195-5b72-462b-9aa9-16a1453b257f.png)
 
 ## Exécutez tous les tests marqués comme @tag1 OU @tag2
+![image](https://user-images.githubusercontent.com/7100940/213878524-e7907e45-2976-456b-8627-8cfd42e1f58a.png)
+
